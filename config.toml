@@ -35,10 +35,10 @@ copyright = "&copy; Copyright 2020, Amirho3inf"
     #url = "/categories/"
     #weight = -80
   [[menu.main]]
-    identifier = "CV"
-    name = "CV"
-    title = "CV"
-    url = "/Amirho3inf-CV.pdf"
+    identifier = "Résumé"
+    name = "Résumé"
+    title = "Résumé"
+    url = "/resume.pdf"
     weight = -70
 
 # Configuration Features
