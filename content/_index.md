@@ -3,14 +3,14 @@ title: Ami
 ---
 
 
-Hey! I'm Amirhosein Falahati. I live in Sari, Iran. I think I'm a hacker! I mean a skilled computer programmer, not "security hacker".
+I'm Amirhosein Falahati and I'm living in Sari, Iran. I’m a software engineer.
 
-I should say that I really love Python 🐍! I code any kind of scripts with python like crawlers, bots, etc. and I have written some GUI programs using PyQT, also web applications and REST API using Flask or sometimes Django. Like I said, I love Python! But sometimes I code with Node.js and Lua.
+I really love Python 🐍 and write any kinds of programs and scripts like Crawlers, Bots (for Telegram, Instagram), GUI applications (using PyQt), Websites and API's (using Flask, Django, Channels) in it. I also code in Node.js, Lua and some another languages (sometimes by need) and know HTML and CSS well.
 
-I use Arch BTW 😃! I've been using GNU/Linux for four years and I think I'm good at it. See [Résumé](/resume.pdf) for more information.
+I use Arch BTW 😃! I've been using GNU/Linux for four years and I'm good at it. I like to use Free Software since I'm a fan of it.
 
-I have a [YouTube channel](https://yt.vu/+Ami_TV) where I post computer related and programming tutorial videos. You can subscribe to my channel if you like 👀.
+Also I have a [YouTube channel](https://yt.vu/+Ami_TV) where I post computer related videos and programming tutorials. Subscribe if you are interested 👀.
 
-Music and Hip Hop is an important part of my life, I'm also interested in video games and animes.
+A lot of my day time I listen to music and for a little bit of it, I play video games. By the way, I like Sci-Fi and comedy movies, anime, and memes. Yay! Laughing is so enjoyable.
 
 Thank you for being here and reading this 😁.
