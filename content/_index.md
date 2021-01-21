@@ -3,7 +3,7 @@ title: Ami
 ---
 
 
-Hey! I'm AmirHossein Falahati. I live in Sari, Iran. I think I'm a hacker! I mean a skilled computer programmer, not "security hacker".
+Hey! I'm Amirhosein Falahati. I live in Sari, Iran. I think I'm a hacker! I mean a skilled computer programmer, not "security hacker".
 
 I should say that I really love Python 🐍! I code any kind of scripts with python like crawlers, bots, etc. and I have written some GUI programs using PyQT, also web applications and REST API using Flask or sometimes Django. Like I said, I love Python! But sometimes I code with Node.js and Lua.
 
