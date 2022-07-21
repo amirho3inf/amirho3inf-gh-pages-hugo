@@ -1,0 +1,83 @@
+baseURL = "https://amirho3inf.github.io"
+title = "Amirho3inf"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = "UA-172736603-1"
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2022, Amirho3inf"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/"
+    weight = -110
+  #[[menu.main]]
+    #identifier = "posts"
+    #name = "Posts"
+    #title = "Posts"
+    #url = "/post/"
+    #weight = -100
+  #[[menu.main]]
+    #identifier = "tags"
+    #name = "Tags"
+    #title = "Tags"
+    #url = "/tags/"
+    #weight = -90
+  #[[menu.main]]
+    #identifier = "categories"
+    #name = "Categories"
+    #title = "Categories"
+    #url = "/categories/"
+    #weight = -80
+  [[menu.main]]
+    identifier = "Résumé"
+    name = "Résumé"
+    title = "Résumé"
+    url = "/resume.pdf"
+    weight = -70
+
+# Configuration Features
+[params]
+  description = "Amirhosein Falahati is a software engineer based out of Sari, Iran. Here you'll find more about him."
+  header_title = "Amirhosein Falahati"
+  header_subtitle = "22 Y.O. Software Developer from Sari, Iran"
+  home_image = "/images/avatar.jpg"
+  recent_posts = 3
+  mainSections = ["posts", "post", "blog"]
+
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"
+    href = "https://github.com/Amirho3inf"
+
+  [[params.social]]
+    fa_icon = "fab fa-gitlab fa-1x"
+    href = "https://gitlab.com/Amirho3inf"
+
+  [[params.social]]
+    fa_icon = "fab fa-youtube fa-1x"
+    href = "https://www.youtube.com/channel/UCkPQbikUgpxV5g9iKvrDtmQ/"
+
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://linkedin.com/in/amirho3inf/"
+
+  [[params.social]]
+    fa_icon = "fab fa-telegram fa-1x"
+    href = "https://t.me/amirho3inf"
+
+  [[params.social]]
+    fa_icon = "fab fa-instagram fa-1x"
+    href = "https://instagram.com/HeresAmiTV"
+
+  [[params.social]]
+    fa_icon = "fab fa-twitter fa-1x"
+    href = "https://twitter.com/AmirHo3inF"
+
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "mailto:mramirho3inf@gmail.com"

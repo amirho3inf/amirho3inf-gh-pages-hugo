@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/amirho3inf/amirho3inf.github.io
+	branch = master
+[submodule "themes/devise"]
+	path = themes/devise
+	url = https://github.com/austingebauer/devise
